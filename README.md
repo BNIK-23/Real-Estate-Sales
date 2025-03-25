@@ -1,11 +1,11 @@
 OBJECTIVE
 To analyze property sales and make a breakdown of the total sales, average and number of sales by the different property types and residential types.
 
-KPIs
-Total Sales 
-Sales trend
-Average Sales
-Sales breakdown by property type and residential type 
+KPIs:
+Total Sales, 
+Sales trend,
+Average Sales,
+Sales breakdown by property type and residential type, 
 Valuation to sale conversion rate.
 
 Tools used:
