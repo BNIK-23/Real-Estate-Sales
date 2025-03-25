@@ -1,3 +1,5 @@
+![Screenshot 2025-03-25 144320](https://github.com/user-attachments/assets/61b1fb4c-bc7a-4458-87e9-19ba8357d3df)
+
 OBJECTIVE
 To analyze property sales and make a breakdown of the total sales, average and number of sales by the different property types and residential types.
 
