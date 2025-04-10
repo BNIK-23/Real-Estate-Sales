@@ -25,14 +25,14 @@ Data Cleaning
 - Standardized columns.
 
 Insights
-Total sales; $43Billion
-Average Sales: $443K
-Total number of sales: 96K
-Residential Property Type accounted for the most sales at $28 Billion. It must be noted that $10 Billion worth of total sales is not specified as to which Property Type it belongs.
-On average, apartments sold at a higher value per unit relative to other property types.
-Total number of sales shows a gradual increase from 2012 with a peak in 2021 followed by a gradual decrease in sales thereafter.
-The valuation to Sale Conversion rate steeply increased from 2001 to a peak in 2003 but then decreased thereafter with slight but significant increases in 2006, 2015 and 2022.
--Between 2009 and 2014, sale ratio (Valuation to Sales ratio) was less than 1. This means properties were sold below the valuation or assessed value, as such sellers made a loss.
+- Total sales; $43Billion
+- Average Sales: $443K
+- Total number of sales: 96K
+- Residential Property Type accounted for the most sales at $28 Billion. It must be noted that $10 Billion worth of total sales is not specified as to which Property Type it belongs.
+- On average, apartments sold at a higher value per unit relative to other property types.
+- Total number of sales shows a gradual increase from 2012 with a peak in 2021 followed by a gradual decrease in sales thereafter.
+- The valuation to Sale Conversion rate steeply increased from 2001 to a peak in 2003 but then decreased thereafter with slight but significant increases in 2006, 2015 and 2022.
+- Between 2009 and 2014, sale ratio (Valuation to Sales ratio) was less than 1. This means properties were sold below the valuation or assessed value, as such sellers made a loss.
 
 
 
